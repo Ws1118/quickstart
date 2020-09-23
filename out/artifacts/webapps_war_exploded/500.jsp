@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>哎，出错了！</h1>
+<h1>传说中的500，它来了！</h1>
 </body>
 </html>
